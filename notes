@@ -1,0 +1,10 @@
+Program no: 2
+
+In this program we are using compostion to achive the funtionality of loosely coupling.
+
+Drawback:
+- Using this Java Project if we want to give more funtinality to our Drivable class then we have to modify our code that is not right for production environment
+  because when we want any new funtionality like i want a feature of Automatic Driving so we have to change our code that's mean our class is tightly 
+  coupled with each other so using this we can't do it.
+  
+ Solution: Refer "01-StrategyDP(Vehicle(Use case-3)using interface (solution))" java project to solve the above problem 
